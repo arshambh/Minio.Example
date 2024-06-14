@@ -1,9 +1,16 @@
+<html>
+    <head>
+        
 <style>
 *{
     direction: rtl;
     text-align: right;
 }
 </style>
+    </head>
+    <body>
+    
+
 ### ایمنی
 
 #### 1.1 اطلاعات عمومی
@@ -490,3 +497,6 @@
 
 
 
+
+    </body>
+</html>
